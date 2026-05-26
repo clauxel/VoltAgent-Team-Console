@@ -1,0 +1,11 @@
+# VoltAgent Team Console
+
+VoltAgent Team Console is a SaaS workspace for VoltAgent.
+
+Website: https://voltagentconsole.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: VoltAgent
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
